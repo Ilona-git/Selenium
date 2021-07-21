@@ -1,1 +1,1 @@
-# Selenium Aleksey Barancev course
+# Selenium Alekseefdey Barancev course
